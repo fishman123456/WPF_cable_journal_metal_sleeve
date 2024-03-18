@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\texthelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:texthelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\stringparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:stringparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\texthelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:texthelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\savefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,25 +90,24 @@
               "RelativeToolTip": "SaveFile.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T07:41:15.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T07:41:15.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StringParse.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\StringParse.cs",
               "RelativeDocumentMoniker": "StringParse.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\StringParse.cs",
               "RelativeToolTip": "StringParse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T06:40:50.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TextHelp.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\TextHelp.cs",
               "RelativeDocumentMoniker": "TextHelp.cs",
@@ -129,8 +128,7 @@
               "RelativeToolTip": "Window1.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:47:38.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T05:47:38.939Z"
             },
             {
               "$type": "Document",
@@ -141,8 +139,7 @@
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-18T05:29:52.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T05:29:52.458Z"
             },
             {
               "$type": "Document",
@@ -154,8 +151,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAewC8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:29:51.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T05:29:51.235Z"
             }
           ]
         }

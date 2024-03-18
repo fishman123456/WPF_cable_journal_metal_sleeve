@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF_cable_journal_metal_sleeve")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3363384e8261af9ce825775b66e55ff78857faca")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF_cable_journal_metal_sleeve")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF_cable_journal_metal_sleeve")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
