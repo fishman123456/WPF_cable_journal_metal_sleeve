@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\texthelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:texthelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\stringparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:stringparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\savefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:savefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|c:\\users\\fishman\\documents\\github\\wpf_cable_journal_metal_sleeve\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6540251-44AF-4A37-98E9-B9A0E3DB8DD7}|WPF_cable_journal_metal_sleeve.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveFile.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\SaveFile.cs",
+              "RelativeDocumentMoniker": "SaveFile.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\SaveFile.cs",
+              "RelativeToolTip": "SaveFile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:41:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringParse.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\StringParse.cs",
+              "RelativeDocumentMoniker": "StringParse.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\StringParse.cs",
+              "RelativeToolTip": "StringParse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:40:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextHelp.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\TextHelp.cs",
+              "RelativeDocumentMoniker": "TextHelp.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\TextHelp.cs",
+              "RelativeToolTip": "TextHelp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:07:59.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:47:38.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T05:29:52.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\WPF_cable_journal_metal_sleeve\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAewC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:29:51.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
