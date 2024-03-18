@@ -1,4 +1,4 @@
-﻿using Autocad_Wpf_Autolip_Pipe_12_02_2024;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -10,7 +10,7 @@ using System.Windows;
 using WPF_cable_journal_metal_sleeve;
 
 
-namespace Autocad_Wpf_Autolip_Pipe_12_02_2024
+namespace WPF_cable_journal_metal_sleeve
 {
     // класс для проверки текущей даты
     public static class CheckDateWork
@@ -18,10 +18,10 @@ namespace Autocad_Wpf_Autolip_Pipe_12_02_2024
         public static void CheckDate()
         {
             DateTime dt1 = DateTime.Now;
-            DateTime dt2 = DateTime.Parse("20/03/2024");
+            DateTime dt2 = DateTime.Parse("20/08/2024");
             if (dt1.Date > dt2.Date)
             {
-                MessageBox.Show("Time is over 20/03/2024");
+                MessageBox.Show("Time is over 20/08/2024");
                 // Выход из проложения добавил 01-01-2024. Чтобы порядок был....
                 var mainWindow = (Application.Current.MainWindow as MainWindow);
                 if (mainWindow != null)

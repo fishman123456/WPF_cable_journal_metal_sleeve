@@ -1,4 +1,4 @@
-﻿using Autocad_Wpf_Autolip_Pipe_12_02_2024;
+﻿
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -21,6 +21,7 @@ namespace WPF_cable_journal_metal_sleeve
         public MainWindow()
         {
             InitializeComponent();
+            CheckDateWork.CheckDate();
         }
 
         private void Button_Clear_Click(object sender, RoutedEventArgs e)

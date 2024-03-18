@@ -20,3 +20,4 @@ C:\Users\Fishman\Documents\GitHub\WPF_cable_journal_metal_sleeve\obj\Debug\net6.
 C:\Users\Fishman\Documents\GitHub\WPF_cable_journal_metal_sleeve\obj\Debug\net6.0-windows\ref\WPF_cable_journal_metal_sleeve.dll
 C:\Users\Fishman\Documents\GitHub\WPF_cable_journal_metal_sleeve\obj\Debug\net6.0-windows\Window1.g.cs
 C:\Users\Fishman\Documents\GitHub\WPF_cable_journal_metal_sleeve\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Fishman\Documents\GitHub\WPF_cable_journal_metal_sleeve\obj\Debug\net6.0-windows\WPF_cable_journal_metal_sleeve.sourcelink.json
